@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         lulucage
-// @version      1.0
+// @version      2.0
 // @description  Luan
 // @author       Thauã Corrêa Martins
 // @match        http*://*/*
