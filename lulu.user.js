@@ -5,5 +5,6 @@
 // @author       Thauã Corrêa Martins
 // @source       https://github.com/correamth
 // @match        *
+// @grant        window.focus
 // @require      https://raw.githubusercontent.com/correamth/lulu/master/lulu.js
 // ==/UserScript==
