@@ -1,10 +1,9 @@
 // ==UserScript==
 // @name         lulucage
-// @version      1.1
+// @version      1.0
 // @description  Luan
 // @author       Thauã Corrêa Martins
-// @source       https://github.com/correamth
-// @match        *
-// @grant        window.focus
+// @match        http*://*/*
 // @require      https://raw.githubusercontent.com/correamth/lulu/master/lulu.js
+// @grant        none
 // ==/UserScript==
